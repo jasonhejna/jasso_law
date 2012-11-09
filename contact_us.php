@@ -31,9 +31,9 @@ function theshow() {
 <body>
 	<!-- 100% width lines blueline_one/two, absolute position outside of 960 grid (here) -->
 	<div id="blue_line"></div>
-	<div id="blue_two"></div>
+	<div id="bro_blue_two"></div>
 	<div id="darkblueline"></div>
-	<div id="darkblueline_two"></div>
+	<div id="bro_darkblueline_two"></div>
 
 <div class="container_24">
 <div class="clear"></div>
@@ -59,7 +59,7 @@ function theshow() {
 <div class="clear"></div>
 <div class="grid_19" style="margin-top:20px;margin-left:40px;">
 	<h1>Contact Us</h1>
-	<form action="MAILTO:example@email.com" method="get" enctype="text/plain">
+	<form action="MAILTO:nicole@jassolopez.com" method="get" enctype="text/plain">
 	Your Name:<br>
 	<input type="text" name="name" value="" style="width:655px;height:28px;"><br><br>
 	Your Email:<br>
@@ -81,6 +81,7 @@ function theshow() {
 <div id="floatright">
 <a href="legal_notices.php" id="beblack">Legal Notices</a>
 </div>
+<br><br><br>
 </div>
 
 </div> <!-- end containter_24 -->
