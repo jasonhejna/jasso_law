@@ -37,12 +37,12 @@ function theshow() {
 <div class="container_24">
 <div class="clear"></div>
 
-<div class="grid_19">
-	<center><img src="images/logo.png" width="400px" height="79px" id="logo" alt="Jasso Lopes PllC. Corporate, Securities and M&A Law"></center>
+<div class="grid_24">
+	<center><img src="images/logo.png" width="500px" height="99px" id="logo" alt="Jasso Lopes PllC. Corporate, Securities and M&A Law"></center>
 </div>
 <div class="clear"></div>
-<div class="grid_19">
-	<div id="linkbar">
+<div class="grid_24">
+	<div id="linkbar">&nbsp;
 	<a href="index.php">Home &nbsp;&nbsp;&nbsp;|</a>
 	<a href="#" onclick="theshow();">Attorneys &nbsp;&nbsp;&nbsp;|</a>
 	<a href="contact_us.php">Contact Us</a>
@@ -56,12 +56,13 @@ function theshow() {
 	
 </div>
 <div class="clear"></div>
-<div class="grid_19" style="margin-top:20px;">
-<center><img src="images/nicole_bio.png" width="690"></center>
+<div class="grid_24" style="margin-top:20px;">
+	<br>
+<center><img src="images/nicole_bio.png" width="810" height="670"></center>
 </div>
 <div class="clear"></div>
-<div class="grid_16 prefix_1">
-	<br><br>
+<div class="grid_20 prefix_1">
+	<br><br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>

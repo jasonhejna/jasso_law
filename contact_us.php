@@ -20,7 +20,7 @@
 $(document).ready(function(){
 		$('#hideshow').hide();
 		$('#showgun').hide();
-
+		$('#downtown_rythm').hide();
 });
 	
 function theshow() {
@@ -38,12 +38,12 @@ function theshow() {
 <div class="container_24">
 <div class="clear"></div>
 
-<div class="grid_19">
-	<center><img src="images/logo.png" width="400px" height="79px" id="logo" alt="Jasso Lopes PllC. Corporate, Securities and M&A Law"></center>
+<div class="grid_24">
+	<center><img src="images/logo.png" width="500px" height="99px" id="logo" alt="Jasso Lopes PllC. Corporate, Securities and M&A Law"></center>
 </div>
 <div class="clear"></div>
-<div class="grid_19">
-	<div id="linkbar">
+<div class="grid_24">
+	<div id="linkbar">&nbsp;
 	<a href="index.php">Home &nbsp;&nbsp;&nbsp;|</a>
 	<a href="#" onclick="theshow();">Attorneys &nbsp;&nbsp;&nbsp;|</a>
 	<a href="contact_us.php">Contact Us</a>
@@ -57,23 +57,40 @@ function theshow() {
 	
 </div>
 <div class="clear"></div>
-<div class="grid_19" style="margin-top:20px;margin-left:40px;">
-	<h1>Contact Us</h1>
-	<form action="MAILTO:nicole@jassolopez.com" method="get" enctype="text/plain">
-	Your Name:<br>
-	<input type="text" name="name" value="" style="width:655px;height:28px;"><br><br>
-	Your Email:<br>
-	<input type="text" name="mail" value="" style="width:655px;height:28px;"><br><br>
-	Your Message:<br>
-	<textarea maxlength="511" rows="4" cols="80"></textarea><br><br>
-	
-	<input type="submit" value="Send" id="showgun"><label for="showgun"><img src="images/send_button.png" width="180"></label>
-	</form>
+<div class="grid_20 prefix_1">
+<div id="move_lots">
 	<br>
-	<img src="images/cont_btm.png" width="300">
+	<div id="finefine">Contact Us</div>
+	<form action="feedback.php" method="post">
+<table border="0" cellpadding="8" cellspacing="8">
+<tr><td><label for="tswname">Your Name:</label><br><input type="text" name="fullname" id="tswname" size="64" /></td></tr>
+<tr><td><label for="tswemail">Your Email:</label><br><input type="text" id="tswemail" name="email" size="64" /></td></tr>
+<tr>
+<td colspan="2">
+<label for="tswcomments">Your Message:</label><br>
+<textarea rows="6" cols="72" name="comments" id="tswcomments" maxlength="1123"></textarea>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<label for="downtown_rythm"><img src="images/send_button.png"></label> <input type="submit" value="Send Feedback" id="downtown_rythm" /><br />
+</td>
+</tr>
+</table>
+</form>
+<br>
+<div id="text_left">
+<b>Please direct all correspondence to:</b><br><br>
+Jasso Lopez PLLC<br>
+404 Running Bear Court<br>
+Euless, Texas 76039<br>
+Telephone:   214-601-6304
+</div>
+
+</div>
 </div>
 <div class="clear"></div>
-<div class="grid_16 prefix_1">
+<div class="grid_20 prefix_1">
 	<br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services

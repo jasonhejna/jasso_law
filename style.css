@@ -1,3 +1,6 @@
+body{
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.1em;color:#000;
+}
 #logo {
 margin-top: 22px;
 margin-bottom: 20px;
@@ -5,12 +8,12 @@ margin-bottom: 20px;
 a {
 text-decoration: none;
 margin-left:8px;
-font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 0.9em;color:#FFF;
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.1em;color:#FFF;
 }
 #darkblueline {
 position:absolute;
 left:0px;
-top:153px;
+top:183px;
 background-color:#1d82b5;
 width:100%;
 height:4px;
@@ -19,7 +22,7 @@ z-index: -1;
 #darkblueline_two {
 position:absolute;
 left:0px;
-top:786px;
+top:956px;
 background-color:#1d82b5;
 width:100%;
 height:4px;
@@ -27,11 +30,11 @@ z-index: -1;
 }
 div#blue_line {
 position:relative;
-top:160px;
+top:190px;
 background-color:#54b5e6;
 height:4px;
 z-index: 400;
-width:760px;
+width:960px;
 
 display: block;
 margin-left: auto;
@@ -39,11 +42,11 @@ margin-right: auto
 }
 div#blue_two {
 position:relative;
-top:789px;
+top:959px;
 background-color:#54b5e6;
 height:4px;
 z-index: 400;
-width:760px;
+width:960px;
 
 display: block;
 margin-left: auto;
@@ -52,7 +55,7 @@ margin-right: auto
 #bro_darkblueline_two {
 position:absolute;
 left:0px;
-top:727px;
+top:933px;
 background-color:#1d82b5;
 width:100%;
 height:4px;
@@ -60,35 +63,54 @@ z-index: -1;
 }
 div#bro_blue_two {
 position:relative;
-top:730px;
+top:936px;
 background-color:#54b5e6;
 height:4px;
 z-index: 400;
-width:760px;
+width:960px;
 
 display: block;
 margin-left: auto;
 margin-right: auto
 }
-h1{
 
-font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.49em;color:#1F8DC5;
+div#finefine{
+margin-left: 15px;
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.8em;color:#1F8DC5;
 }
 div#linkbar {
 background-color:#404040;
-padding-top: 2px;
+padding-top: 7px;
 margin-bottom: 0px;
 margin-top: 0px;
-height: 24px;
+height: 32px;
 }
 #blue_box {
-height:262px;
+height:328px;
 background-color:#1F8DC5;
 margin-top: 11px;
-padding-top: 28px;
+padding-top: 24px;
 padding-bottom: 28px;
-padding-left: 42px;
-padding-right: 35px;
+padding-left: 62px;
+padding-right: 62px;
+}
+div#move_lots{
+margin-left: 80px;
+}
+input {
+border: 2px solid #79CDCD;
+background: #F0F0F0;
+height:28px;
+padding-left: 7px;
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.3em;color:#1F8DC5;
+}
+label{
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.0em;color:#000;
+}
+textarea{
+border: 2px solid #79CDCD;
+background: #F0F0F0;
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 1.2em;color:#1F8DC5;
 }
 #contactmargin {
 margin-top: 8px;
@@ -113,6 +135,7 @@ height:1px;
 margin-top: 9px;
 font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 0.9em;color:#000;
 float: left;
+margin-left: 80px;
 }
 a#beblack{
 text-decoration: none;
@@ -123,6 +146,7 @@ border: 0px;
 margin-top: 9px;
 font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;font-size: 0.9em;color:#000;
 float: right;
+margin-right: 90px;
 }
 li.headlink ul { 
 display: none;
@@ -144,4 +168,7 @@ display: block;
 	
 
 	list-style: none;
+}
+div#text_left {
+	margin-left: 20px;
 }

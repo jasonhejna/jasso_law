@@ -37,12 +37,12 @@ function theshow() {
 <div class="container_24">
 <div class="clear"></div>
 
-<div class="grid_19">
-	<center><img src="images/logo.png" width="400px" height="79px" id="logo" alt="Jasso Lopes PllC. Corporate, Securities and M&A Law"></center>
+<div class="grid_24">
+	<center><img src="images/logo.png" width="500px" height="99px" id="logo" alt="Jasso Lopes PllC. Corporate, Securities and M&A Law"></center>
 </div>
 <div class="clear"></div>
-<div class="grid_19">
-	<div id="linkbar">
+<div class="grid_24">
+	<div id="linkbar">&nbsp;
 	<a href="">Home &nbsp;&nbsp;&nbsp;|</a>
 	<a href="#" onclick="theshow();">Attorneys &nbsp;&nbsp;&nbsp;|</a>
 	<a href="contact_us.php">Contact Us</a>
@@ -56,26 +56,25 @@ function theshow() {
 	
 </div>
 <div class="clear"></div>
-<div class="grid_19">
+<div class="grid_24">
 <div id="blue_box">
 <span id="fltleft">
-	<img src="images/home_textm.png" width="336" height="215">
+	<img src="images/home_textm.png" width="404" height="254">
 	<br>
-	<a href="contact_us.php"><img src="images/contact_us.png" width="120" height="35" id="contactmargin"></a>
+	<a href="contact_us.php"><img src="images/contact_us.png" width="200" height="58" id="contactmargin"></a>
 </span>
 <span id="fltright">
-<img src="images/cool_belt.png" width="272" height="272">
+<img src="images/cool_belt.png" width="340" height="340">
 </span>
 </div>
 <div id="btm_width">
-	<h1>The <em>value firm</em> for companies with complex corporate transactional and compliance needs</h1>
-	<hr>
-	<center><img src="images/okay_snow.png" width="680px"></center>
+	<br>
+	<center><img src="images/okay_snow.png" width="790px"></center>
 </div>
 
 </div>
 <div class="clear"></div>
-<div class="grid_16 prefix_1">
+<div class="grid_20 prefix_1">
 	<br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
