@@ -63,12 +63,12 @@ function theshow() {
 	<div id="finefine">Contact Us</div>
 	<form action="feedback.php" method="post">
 <table border="0" cellpadding="8" cellspacing="8">
-<tr><td><label for="tswname">Your Name:</label><br><input type="text" name="fullname" id="tswname" size="64" /></td></tr>
-<tr><td><label for="tswemail">Your Email:</label><br><input type="text" id="tswemail" name="email" size="64" /></td></tr>
+<tr><td><label for="tswname">Your Name:</label><br><input type="text" name="fullname" id="tswname" size="61" /></td></tr>
+<tr><td><label for="tswemail">Your Email:</label><br><input type="text" id="tswemail" name="email" size="61" /></td></tr>
 <tr>
 <td colspan="2">
 <label for="tswcomments">Your Message:</label><br>
-<textarea rows="6" cols="72" name="comments" id="tswcomments" maxlength="1123"></textarea>
+<textarea rows="6" cols="68" name="comments" id="tswcomments" maxlength="1123"></textarea>
 </td>
 </tr>
 <tr>
