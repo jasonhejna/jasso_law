@@ -34,7 +34,7 @@ top:190px;
 background-color:#54b5e6;
 height:4px;
 z-index: 400;
-width:960px;
+width:920px;
 
 display: block;
 margin-left: auto;
@@ -46,7 +46,7 @@ top:959px;
 background-color:#54b5e6;
 height:4px;
 z-index: 400;
-width:960px;
+width:920px;
 
 display: block;
 margin-left: auto;
@@ -121,7 +121,6 @@ float: left;
 #fltright {
 float: right;
 }
-
 #btm_width {
 margin-left: 37px;
 margin-right: 37px;
@@ -171,4 +170,7 @@ display: block;
 }
 div#text_left {
 	margin-left: 20px;
+}
+div.leftme {
+	padding-left: 92px;
 }
