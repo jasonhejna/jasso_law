@@ -48,8 +48,8 @@
 
 // ------------- CONFIGURABLE SECTION ------------------------
 
-$mailto = 'jason.hejna@opencircle.com' ;
-$subject = "jassolopezlaw com" ;
+$mailto = 'erik@jassolopez.com' ;
+$subject = "contact from jassolopezlaw com" ;
 $formurl = "contact_us.php" ;
 $thankyouurl = "index.php" ;
 $errorurl = "index.php" ;
