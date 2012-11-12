@@ -58,11 +58,11 @@ function theshow() {
 <div class="clear"></div>
 <div class="grid_24" style="margin-top:20px;">
 	<br>
-<center><img src="images/erik_bio.png" width="810" height="675"></center>
+<center><img src="images/erik_bio.png" width="730" height="608"></center>
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
-	<br><br><br><br>
+	<br><br><br><br><br><br><br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>

@@ -63,8 +63,8 @@ function theshow() {
 	<div id="finefine">Contact Us</div>
 	<form action="feedback.php" method="post">
 <table border="0" cellpadding="8" cellspacing="8">
-<tr><td><label for="tswname">Your Name:</label><br><input type="text" name="fullname" id="tswname" size="61" /></td></tr>
-<tr><td><label for="tswemail">Your Email:</label><br><input type="text" id="tswemail" name="email" size="61" /></td></tr>
+<tr><td><label for="tswname">Your Name:</label><br><input type="text" name="fullname" id="tswname" size="68" /></td></tr>
+<tr><td><label for="tswemail">Your Email:</label><br><input type="text" id="tswemail" name="email" size="68" /></td></tr>
 <tr>
 <td colspan="2">
 <label for="tswcomments">Your Message:</label><br>
@@ -91,14 +91,14 @@ Telephone:   214-601-6304
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
-	<br><br>
+	<br><br><br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>
 <div id="floatright">
 <a href="legal_notices.php" id="beblack">Legal Notices</a>
 </div>
-<br><br><br>
+<br><br><br><br><br>
 </div>
 
 </div> <!-- end containter_24 -->

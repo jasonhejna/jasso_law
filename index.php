@@ -48,7 +48,7 @@ function theshow() {
 	<a href="contact_us.php">Contact Us</a>
 	</div>
 	<span id="hideshow">
-	<div id="linkbar" class="leftme">
+	<div id="linkbar">
 	<a href="attorneys_erik.php" onMouseOver=document.getElementById("foo").style.color="#ea8018"; onMouseout=document.getElementById("foo").style.color="#FFF"; id="foo">Erik A. Lopez, Sr.</a>
 	<a href="attorneys_nicole.php" onMouseOver=document.getElementById("bar").style.color="#ea8018"; onMouseout=document.getElementById("bar").style.color="#FFF"; id="bar">|&nbsp;&nbsp;&nbsp;Nicole Jasso Lopez</a>
 	</div>
@@ -69,21 +69,23 @@ function theshow() {
 </div>
 <div id="btm_width">
 	<br>
-	<center><img src="images/okay_snow.png" width="790px"></center>
+	<center><img src="images/okay_snow.png" width="800px"></center>
 </div>
 
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
-	<br><br>
+	<br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>
 <div id="floatright">
 <a href="legal_notices.php" id="beblack">Legal Notices</a>
 </div>
+
 </div>
 
 </div> <!-- end containter_24 -->
+
 </body>
 </html>
