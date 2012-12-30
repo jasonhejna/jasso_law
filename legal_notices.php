@@ -49,8 +49,7 @@ function theshow() {
 	</div>
 	<span id="hideshow">
 	<div id="linkbar">
-	<a href="attorneys_erik.php" onMouseOver=document.getElementById("foo").style.color="#ea8018"; onMouseout=document.getElementById("foo").style.color="#FFF"; id="foo">Erik A. Lopez, Sr.</a>
-	<a href="attorneys_nicole.php" onMouseOver=document.getElementById("bar").style.color="#ea8018"; onMouseout=document.getElementById("bar").style.color="#FFF"; id="bar">|&nbsp;&nbsp;&nbsp;Nicole Jasso Lopez</a>
+	<?php include 'attorney_dropdown.php' ?>
 	</div>
 	</span>
 	
@@ -58,11 +57,11 @@ function theshow() {
 <div class="clear"></div>
 <div class="grid_24" style="margin-top:20px;">
 	<br><br>
-<center><img src="images/bottle_gun.png" width="790"></center>
+<center><img src="images/bottle_gun.png" width="730"></center>
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
-	<br><br><br><br>
+	<br><br><br><br><br><br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>

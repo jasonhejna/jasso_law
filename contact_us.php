@@ -50,8 +50,7 @@ function theshow() {
 	</div>
 	<span id="hideshow">
 	<div id="linkbar">
-	<a href="attorneys_erik.php" onMouseOver=document.getElementById("foo").style.color="#ea8018"; onMouseout=document.getElementById("foo").style.color="#FFF"; id="foo">Erik A. Lopez, Sr.</a>
-	<a href="attorneys_nicole.php" onMouseOver=document.getElementById("bar").style.color="#ea8018"; onMouseout=document.getElementById("bar").style.color="#FFF"; id="bar">|&nbsp;&nbsp;&nbsp;Nicole Jasso Lopez</a>
+	<?php include 'attorney_dropdown.php' ?>
 	</div>
 	</span>
 	

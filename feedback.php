@@ -51,7 +51,7 @@
 $mailto = 'erik@jassolopez.com' ;
 $subject = "contact from jassolopezlaw com" ;
 $formurl = "contact_us.php" ;
-$thankyouurl = "index.php" ;
+$thankyouurl = "thankyou.php" ;
 $errorurl = "index.php" ;
 
 $email_is_required = 1;

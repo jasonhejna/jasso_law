@@ -118,6 +118,7 @@ padding-right:14px;
 }
 #contactmargin {
 margin-top: 8px;
+margin-left: -12px;
 }
 #fltleft {
 float: left;
@@ -177,4 +178,11 @@ div#text_left {
 }
 div.leftme {
 	padding-left: 92px;
+}
+#attorney_contactInfo{
+	font: helvetica;
+	font-size: 1.01em;
+	position: absolute;
+	margin-top: 380px;
+	margin-left: 100px;
 }

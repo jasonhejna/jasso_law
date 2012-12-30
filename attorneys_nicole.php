@@ -49,8 +49,7 @@ function theshow() {
 	</div>
 	<span id="hideshow">
 	<div id="linkbar">
-	<a href="attorneys_erik.php" onMouseOver=document.getElementById("foo").style.color="#ea8018"; onMouseout=document.getElementById("foo").style.color="#FFF"; id="foo">Erik A. Lopez, Sr.</a>
-	<a href="attorneys_nicole.php" onMouseOver=document.getElementById("bar").style.color="#ea8018"; onMouseout=document.getElementById("bar").style.color="#FFF"; id="bar">|&nbsp;&nbsp;&nbsp;Nicole Jasso Lopez</a>
+	<?php include 'attorney_dropdown.php' ?>
 	</div>
 	</span>
 	
@@ -58,7 +57,13 @@ function theshow() {
 <div class="clear"></div>
 <div class="grid_24" style="margin-top:20px;">
 	<br>
-<center><img src="images/nicole_bio.png" width="730" height="604"></center>
+	<div id="attorney_contactInfo">
+	404 Running Bear Court<br>
+	Euless, Texas 76039<br>
+	Tel:  +1-214-601-6304<br>
+	Email: nicole@jassolopez.com<br>
+	</div>
+	<center><img src="images/nicole_bio.png" width="730" height="604"></center>
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
