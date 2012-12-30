@@ -7,8 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Jason Hejna">
-   <link rel="shortcut icon" href="images/gauge.ico">
-  <link rel="icon" href="images/gauge.ico">
+<link rel="shortcut icon" href="images/gauge.ico">
+<link rel="icon" href="images/gauge.ico">
 <title>Jasso Lopez PLLC - Corporate, Securities and M&A Law</title>
 
 <link rel="stylesheet" href="style.css" />
@@ -47,42 +47,32 @@ function theshow() {
 	</div>
 	<span id="hideshow">
 	<div id="linkbar">
-	<?php include 'attorney_dropdown.php' ?>
+		<?php include 'attorney_dropdown.php' ?>
 	</div>
 	</span>
 	
 </div>
 <div class="clear"></div>
-<div class="grid_24">
-<div id="blue_box">
-<span id="fltleft">
-	<img src="images/home_textm.png" width="404" height="254">
+<div class="grid_24" style="margin-top:20px;">
 	<br>
-	<a href="contact_us.php"><img src="images/contact_us.png" width="200" height="58" id="contactmargin"></a>
-</span>
-<span id="fltright">
-<img src="images/cool_belt.png" width="340" height="340">
-</span>
-</div>
-<div id="btm_width">
-	<br>
-	<center><img src="images/okay_snow.png" width="800px"></center>
-</div>
-
+	<div id="attorney_contactInfo">
+	404 Running Bear Court<br>
+	Euless, Texas 76039<br>
+	Tel:  +1-214-546-6938<br>
+	</div>
+	<center><img src="images/jordanh_bio.png" width="730" height="608"></center>
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
-	<br><br><br>
+	<br><br><br><br><br><br><br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>
 <div id="floatright">
 <a href="legal_notices.php" id="beblack">Legal Notices</a>
 </div>
-
 </div>
 
 </div> <!-- end containter_24 -->
-
 </body>
 </html>

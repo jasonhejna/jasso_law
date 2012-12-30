@@ -1,0 +1,3 @@
+<a href="attorneys_erik.php" onMouseOver=document.getElementById("foo").style.color="#ea8018"; onMouseout=document.getElementById("foo").style.color="#FFF"; id="foo">Erik A. Lopez, Sr.</a>
+	<a href="attorneys_nicole.php" onMouseOver=document.getElementById("bar").style.color="#ea8018"; onMouseout=document.getElementById("bar").style.color="#FFF"; id="bar">|&nbsp;&nbsp;&nbsp;Nicole Jasso Lopez</a>
+		<a href="attorneys_jordanh.php" onMouseOver=document.getElementById("jordanid").style.color="#ea8018"; onMouseout=document.getElementById("jordanid").style.color="#FFF"; id="jordanid">|&nbsp;&nbsp;&nbsp;Jordan Harrison</a>

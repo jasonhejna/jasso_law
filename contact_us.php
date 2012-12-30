@@ -43,10 +43,8 @@ function theshow() {
 </div>
 <div class="clear"></div>
 <div class="grid_24">
-	<div id="linkbar">&nbsp;
-	<a href="index.php">Home &nbsp;&nbsp;&nbsp;|</a>
-	<a href="#" onclick="theshow();">Attorneys &nbsp;&nbsp;&nbsp;|</a>
-	<a href="contact_us.php">Contact Us</a>
+	<div id="linkbar">
+		<?php include 'main_links.php'; ?>
 	</div>
 	<span id="hideshow">
 	<div id="linkbar">

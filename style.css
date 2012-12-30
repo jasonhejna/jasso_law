@@ -52,10 +52,31 @@ display: block;
 margin-left: auto;
 margin-right: auto
 }
+div#blue_twoss {
+position:relative;
+top:1370px;
+background-color:#54b5e6;
+height:4px;
+z-index: 400;
+width:920px;
+
+display: block;
+margin-left: auto;
+margin-right: auto
+}
 #bro_darkblueline_two {
 position:absolute;
 left:0px;
 top:877px;
+background-color:#1d82b5;
+width:100%;
+height:4px;
+z-index: -1;
+}
+#darkblueline_twoss {
+position:absolute;
+left:0px;
+top:1367px;
 background-color:#1d82b5;
 width:100%;
 height:4px;
