@@ -13,6 +13,7 @@
 
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="960_24_col.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
 	<link href="css/ui-lightness/jquery-ui-1.9.1.custom.css" rel="stylesheet">
 	<script src="js/jquery-1.8.2.js"></script>
 	<script src="js/jquery-ui-1.9.1.custom.js"></script>
@@ -59,7 +60,7 @@ function theshow() {
 	404 Running Bear Court<br>
 	Euless, Texas 76039<br>
 	Tel:  +1-214-601-1887<br>
-	Email: erik@jassolopez.com<br>
+	Email: <a id="email" href="mailto:erik@jassolopez.com">erik@jassolopez.com</a><br>
 	</div>
 	<center><img src="images/erik_bio.png" width="730" height="608"></center>
 </div>

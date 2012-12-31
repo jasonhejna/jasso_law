@@ -13,6 +13,7 @@
 
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="960_24_col.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
 	<link href="css/ui-lightness/jquery-ui-1.9.1.custom.css" rel="stylesheet">
 	<script src="js/jquery-1.8.2.js"></script>
 	<script src="js/jquery-ui-1.9.1.custom.js"></script>

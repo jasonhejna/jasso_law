@@ -13,6 +13,7 @@
 
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="960_24_col.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
 	<link href="css/ui-lightness/jquery-ui-1.9.1.custom.css" rel="stylesheet">
 	<script src="js/jquery-1.8.2.js"></script>
 	<script src="js/jquery-ui-1.9.1.custom.js"></script>
@@ -60,11 +61,11 @@ function theshow() {
 	Euless, Texas 76039<br>
 	Tel:  +1-214-546-6938<br>
 	</div>
-	<center><img src="images/jordanh_bio.png" width="730" height="608"></center>
+	<center><img src="images/jordanh_bio.png" width="730"></center>
 </div>
 <div class="clear"></div>
 <div class="grid_20 prefix_1">
-	<br><br><br><br><br><br><br><br><br>
+	<br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="floatleft">
  &copy; Jasso Lopez PLLC – A boutique law firm offering corporate, securities and M&A services
 </div>

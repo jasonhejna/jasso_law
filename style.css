@@ -201,9 +201,12 @@ div.leftme {
 	padding-left: 92px;
 }
 #attorney_contactInfo{
-	font: helvetica;
-	font-size: 1.01em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.9em;
 	position: absolute;
-	margin-top: 380px;
+	margin-top: 340px;
 	margin-left: 100px;
+}
+a#email {
+color:#0000FF;
 }
