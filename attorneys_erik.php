@@ -9,7 +9,7 @@
 <meta name="author" content="Jason Hejna">
 <link rel="shortcut icon" href="images/gauge.ico">
 <link rel="icon" href="images/gauge.ico">
-<title>Jasso Lopez PLLC - Corporate, Securities and M&A Law</title>
+<title>Jasso Lopez PLLC - Corporate, Securities and M&A Law Dallas, Texas 75201</title>
 
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="960_24_col.css" />
